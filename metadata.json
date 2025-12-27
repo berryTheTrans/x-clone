@@ -1,0 +1,8 @@
+{
+  "name": "LocalX Blog",
+  "description": "A decentralized, black-and-white blog platform where data lives on your device and is shared peer-to-peer via WebRTC.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
